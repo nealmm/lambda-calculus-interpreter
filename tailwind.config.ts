@@ -3,7 +3,7 @@ import { fontFamily } from "tailwindcss/defaultTheme";
 import plugin from "tailwindcss/plugin";
 
 export default {
-  content: ['index.html'],
+  content: ['index.html', 'src/main.ts'],
   darkMode: "class",
 	corePlugins: {
 		// disable aspect ratio as per docs -> @tailwindcss/aspect-ratio
