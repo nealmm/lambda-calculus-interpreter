@@ -33,4 +33,9 @@
 	html body {
 		@apply mx-auto flex min-h-screen max-w-3xl flex-col bg-bgColor px-8 pt-16 font-mono text-sm font-normal text-textColor antialiased;
 	}
+
+	kbd {
+		@apply inline-block border border-solid rounded border-gray-500 py-0.5 px-1.5 m-0.5;
+		box-shadow: #6b7280 1px 1px;
+	}
 }
