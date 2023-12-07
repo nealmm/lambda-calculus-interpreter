@@ -1,1 +1,1 @@
-# lambda-calculus-interpreter
+# Lambda Calculus Interpreter
